@@ -110,8 +110,6 @@ Bu proje, Tiva C serisi mikrokontrolcü kullanarak zamanı güncelleyip bir LCD 
 
 ---
 
-## Lisans
 
-Bu proje MIT Lisansı altında sunulmuştur.
 
 
